@@ -1,6 +1,6 @@
 # Cpp-Test-Cases
 
-Multiple problems solved using OOP and the C++ STL. Mostly found on LeetCode.
+Multiple problems solved using OOP and the C++ STL. Problems are mostly from LeetCode.
 
 
 ### Build
